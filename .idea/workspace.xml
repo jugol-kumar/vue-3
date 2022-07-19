@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="130e93f9-2023-461a-9d62-1056f5df7795" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vue-3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index/components.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index/js/FakeDb.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index/js/components/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index/js/components/Assinment.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index/js/components/AssinmentTags.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index/js/components/Assinments.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index/js/components/AssinmntList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index/js/components/CreateNewLang.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index/js/custom-components/Switch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/component/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/component/app.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2C0ikapFyUdNVmyyy35wFQxpNKu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Vue" />
+    <property name="js.ns.project" value="true" />
+    <property name="js.ns.project.flavor" value="JavaScript" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\jugol\Desktop\vue-3\index" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="130e93f9-2023-461a-9d62-1056f5df7795" name="Default Changelist" comment="" />
+      <created>1657946046517</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1657946046517</updated>
+      <workItem from="1657946047829" duration="1184000" />
+      <workItem from="1657947258478" duration="961000" />
+      <workItem from="1657948332825" duration="911000" />
+      <workItem from="1657949574522" duration="13822000" />
+      <workItem from="1657976521747" duration="2597000" />
+      <workItem from="1658034875711" duration="8688000" />
+      <workItem from="1658047132136" duration="2158000" />
+      <workItem from="1658120050804" duration="4164000" />
+      <workItem from="1658224620456" duration="9000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="346" y="113" key="#Inspections" timestamp="1658120107531">
+      <screen x="0" y="0" width="1440" height="870" />
+    </state>
+    <state x="346" y="113" key="#Inspections/0.0.1440.870@0.0.1440.870" timestamp="1658120107531" />
+  </component>
+</project>

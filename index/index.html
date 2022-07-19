@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="en" class="h-full">
+
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <title>Welcome to vue js world</title>
+</head>
+
+<body class="h-full grid place-items-center bg-gray-900 text-slate-300">
+
+    <div id="app">
+        <input type="text" :value="name" @input="name = $event.target.value">
+    </div>
+
+
+
+    <script src="https://unpkg.com/vue@3.2.37"></script>
+    <script type="module">
+        import App from "./js/components/App.js";
+        Vue.createApp({
+            data(){
+                return{
+                    name: ''
+                }
+            },
+            components
+            // methods:{
+            //     check(){
+            //         $event.target.value
+            //     }
+            // }
+        }).mount("#app");
+    </script>
+</body>
+
+</html>

@@ -3,7 +3,6 @@ import button from "./button.js"
 const myMainApp = {
     components: {
         "com-one":button,
-
     },
 
     data() {
