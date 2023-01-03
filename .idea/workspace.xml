@@ -20,24 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="130e93f9-2023-461a-9d62-1056f5df7795" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vue-3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index/components.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index/js/FakeDb.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index/js/components/App.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index/js/components/Assinment.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index/js/components/AssinmentTags.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index/js/components/Assinments.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index/js/components/AssinmntList.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index/js/components/CreateNewLang.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index/js/custom-components/Switch.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/component/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/component/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index/js/components/ChildComponent.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index/components.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index/js/components/Assinments.js" beforeDir="false" afterPath="$PROJECT_DIR$/index/js/components/Assinments.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +67,7 @@
       <recent name="C:\Users\jugol\Desktop\vue-3\index" />
     </key>
   </component>
-  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -100,11 +87,16 @@
       <workItem from="1658047132136" duration="2158000" />
       <workItem from="1658120050804" duration="4164000" />
       <workItem from="1658224620456" duration="9000" />
+      <workItem from="1658524258363" duration="1651000" />
+      <workItem from="1658550321564" duration="64000" />
+      <workItem from="1658763379503" duration="174000" />
+      <workItem from="1661807257188" duration="610000" />
+      <workItem from="1662044582249" duration="285000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="2" />
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">

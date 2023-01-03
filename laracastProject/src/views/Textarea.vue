@@ -1,19 +1,16 @@
 <script setup>
-defineProps({
-  msg: {
-    type: String,
-    required: true
-  }
-})
+  import TabableTextara from "@/components/TabableTextara.vue"
+  import {ref} from "vue";
+  let comment = ref("this is for test");
+
+  setTimeout(()=>{
+    comment.value = "yes this is changed";
+  }, 2000)
 </script>
 
 <template>
   <div class="greetings">
-    <h1 class="green">{{ msg }}</h1>
-    <h3>
-      You’ve successfully created a project with
-
-    </h3>
+    <TabableTextara v-model="comment" style="width: 100%; height: 300px"/>
   </div>
 </template>
 

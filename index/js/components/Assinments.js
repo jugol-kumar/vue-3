@@ -30,7 +30,8 @@ export default {
             this.programs.programs.push({
                 lang:  name,
                 learn: false,
-                id:    this.programs.programs.length + 1
+                id:    this.programs.programs.length + 1,
+                tag: 'frontend'
             });
         }
     }
